@@ -1,0 +1,36 @@
+form {
+  display: inline;
+}
+
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: rgb(3,37,235);
+ background: linear-gradient(90deg, rgba(3,37,235,1) 0%, rgba(252,69,76,1) 100%);
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font: 14 px;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+  text-indent: 45%;
+  padding: 5px;
+}
+
+input {
+  font-size: 20px;
+  color: orange;
+}
+
+button {
+  font-size: 20px;
+  background-color: purple;
+  color: white;
+  border-radius: 10%;
+}
